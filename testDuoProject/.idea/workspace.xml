@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../HangMan2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alramClock/src/imageExersice/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alramClock/src/imageExersice/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alramClock/src/imageExersice/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alramClock/src/imageExersice/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alramClock/src/imageExersice/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alramClock/src/imageExersice/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alramClock/src/imageExersice/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../code/codejava/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../code/codejava/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../code/codejava/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../code/codejava/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../code/codepy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/10_Photolysis.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/11_cell_cycle_and_cell_division.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/12_/1_circulatory_system_ap59.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/12_/2_respiratory_system_ap59.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/13_/1_development_ap59.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/13_/2_reproduction_ap59.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/1_origin_of_life_pattanee_pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/2_genetic_first_semester_2014.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/3_/1_biodiversity_part1_supiyanit.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/3_/2_biodiversity-part-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/3_/3_animal_kingdom (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/4_hormones_60.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/5_nervous_system-renew.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/6_cell_and_cell_structure_2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/7_ecology.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/8_energy_enzyme_and_metabolism.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/descrid/9_cellular_respiration_and_fermentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/11.การสิบพันธุ์.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/12._development.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/13_ecology.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/6._biodiversity_revised.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/7._plant_tissue.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/8.animal_tissue.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/9-10_mitosis-meiosis.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/Bio Lab.m4a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/pic/Lab Bio final_170515_0141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../other/file_bio/lab_bio/แบบฝ_กห_ด-final-1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../116/lab04-04.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../116/lab04-06.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../116/test1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../116/test2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../888.c" beforeDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1485689947">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+          <entry key="txt" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3249" />
+          <entry key="txt" value="368" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3249" />
+          <entry key="PLAIN_TEXT" value="368" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6909373">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/FileManaging.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="4408">
+                  <caret line="238" column="33" selection-start-line="238" selection-start-column="33" selection-end-line="238" selection-end-column="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/sample/MainModel.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-39">
+                  <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/SubjectButton.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="228">
+                  <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#316#317#0" expanded="true" />
+                    <element signature="e#349#350#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sample/Subject.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2470">
+                  <caret line="150" column="21" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#4472#4473#0" expanded="true" />
+                    <element signature="e#4499#4500#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="266">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>syste</find>
+      <find>add</find>
+      <find>subjectArrayList</find>
+      <find>allSubjectHashMap</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/subjectYear1_1.txt" />
+        <option value="$PROJECT_DIR$/subjectYear1_2 .txt" />
+        <option value="$PROJECT_DIR$/subjectYear2_2.txt" />
+        <option value="$PROJECT_DIR$/subjectYear3_1.txt" />
+        <option value="$PROJECT_DIR$/subjectYear3_2.txt" />
+        <option value="$PROJECT_DIR$/subjectYear4_1.txt" />
+        <option value="$PROJECT_DIR$/subjectYear4_2.txt" />
+        <option value="$PROJECT_DIR$/src/sample/SubjectButton.java" />
+        <option value="$PROJECT_DIR$/subjectYear2_1.txt" />
+        <option value="$PROJECT_DIR$/src/sample/MainModel.java" />
+        <option value="$PROJECT_DIR$/src/sample/FileManaging.java" />
+        <option value="$PROJECT_DIR$/src/sample/Subject.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testDuoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDuoProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testDuoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDuoProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testDuoProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDuoProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544884060954" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newDuoProject" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="testDuoProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.MainModel" />
+      <module name="testDuoProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainModel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainModel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1543407899592" duration="219000" />
+      <workItem from="1543408343894" duration="8967000" />
+      <workItem from="1543470012366" duration="954000" />
+      <workItem from="1543477514735" duration="6553000" />
+      <workItem from="1543497714221" duration="10459000" />
+      <workItem from="1543592576996" duration="4617000" />
+      <workItem from="1543652178087" duration="2750000" />
+      <workItem from="1543658448332" duration="10820000" />
+      <workItem from="1543709044010" duration="131000" />
+      <workItem from="1543753876754" duration="598000" />
+      <workItem from="1543756948219" duration="77000" />
+      <workItem from="1544884027982" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47505000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.14161074" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3248322" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.14496644" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear3_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear4_1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear4_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="64" selection-start-column="64" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear1_2 .txt" />
+    <entry file="file://$PROJECT_DIR$/subjectYear1_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="103" lean-forward="true" selection-start-line="2" selection-start-column="103" selection-end-line="2" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear1_2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear3_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169745">
+          <caret line="397" column="22" selection-start-line="397" selection-start-column="22" selection-end-line="397" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear2_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subjectYear2_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="89" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/FileManaging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4408">
+          <caret line="238" column="33" selection-start-line="238" selection-start-column="33" selection-end-line="238" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/SubjectButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="150" column="21" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
+          <folding>
+            <element signature="e#4472#4473#0" expanded="true" />
+            <element signature="e#4499#4500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/MainModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

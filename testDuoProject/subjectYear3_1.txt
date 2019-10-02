@@ -1,0 +1,4 @@
+sa >> System Analysis and Design ; 01418321 ; 3 ; Subject of com science ; none ; 3 ; java , database
+os >> Operating System ; 01418331 ; 4 ; Subject of com science ; none ; 3 ; assembly
+seminar >> Seminar ; 01418497 ; 1 ; Subject of com science ; none ; 2 ; database , algor , assembly
+ippe >> Intellectual Prop. & Profess. Ethics ; 01418341 ; 3 ; Subject of com science ; none ; 3 ; none

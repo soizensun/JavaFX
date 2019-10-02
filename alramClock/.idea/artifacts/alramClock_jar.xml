@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="alramClock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/alramClock_jar</output-path>
+    <root id="archive" name="alramClock.jar">
+      <element id="module-output" name="alramClock" />
+    </root>
+  </artifact>
+</component>

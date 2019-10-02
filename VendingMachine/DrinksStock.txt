@@ -1,0 +1,8 @@
+Sprite 1
+MountainDew 2
+Fanta 1
+DrPepper 4
+Pepsi 3
+PepsiMax 2
+Coke 3
+CokeZero1Zero 1

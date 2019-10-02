@@ -1,0 +1,4 @@
+compo >> Computer programing ; 01418113 ; 3 ; Subject of com science ; none ; 2 ; introcom
+cal2 >> Calculus2 ; 01417112 ; 3 ; Mandatory subject ; none ; 2 ; cal1
+eng2 >> Foundation English2 ; 01355112 ; 3 ; language and Communication ; none ; 1 ; eng1
+funCom >> Fundamentals of computing ; 01418132 ; 4 ; Subject of com science ; none ; 2 ; none

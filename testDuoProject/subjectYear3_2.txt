@@ -1,0 +1,5 @@
+security >> Information System Security ; 01418332 ; 3 ; Subject of com science ; none ; 3 ; os
+automata >> Automata Theory ; 01418333 ; 2 ; Subject of com science ; none ; 3 ; funCom
+compiler >> Compiler Techniques ; 01418334 ; 2 ; Subject of com science ; automata ; 3 ; none
+cloud >> Principle in CCs & Cloud Computing ; 01418351 ; 3 ; Subject of com science ; none ; 3 ; os
+preCoOp >> Co-op. Education Preparation ; 01418390 ; 1 ; Subject of com science ; none ; 2 ; sa

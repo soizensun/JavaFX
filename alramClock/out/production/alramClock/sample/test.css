@@ -1,0 +1,65 @@
+#deleteButton{
+    -fx-background-color: #f5b7b1;
+    -fx-text-fill: #1c2833;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5),4,0,0,3);
+}
+
+#deleteButton:hover{
+    -fx-background-color: #ec7063;
+    -fx-text-fill: #1c2833;
+}
+
+#deleteButton:pressed{
+    -fx-padding: 10,15,13,13;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#addButton{
+    -fx-background-color: #f7dc6f;
+    -fx-text-fill: #595959;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5),4,0,0,3);
+}
+
+#addButton:hover{
+    -fx-background-color:  #FFC300;
+    -fx-text-fill: #595959;
+}
+
+#addButton:pressed{
+    -fx-padding: 10,15,13,13;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#hourCombobox{
+    -fx-background-color:  #DAF7A6;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5),4,0,0,3);
+}
+
+#minuteCombobox{
+    -fx-background-color:  #DAF7A6;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5),4,0,0,3);
+}
+
+#hourCombobox:hover{
+    -fx-background-color:  #d0f986;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5),4,0,0,3);
+}
+
+#minuteCombobox:hover{
+    -fx-background-color:  #d0f986;
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5),4,0,0,3);
+}
+
+#hourCombobox:pressed{
+    -fx-padding: 0,15,0,0;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+
+}
+#minuteCombobox:pressed{
+    -fx-padding: 0,15,0,0;
+    -fx-background-insets: 2 0 0 0,2 0 3 0,2 0 4 0,2 0 5 0;
+}
+
+#listView{
+    -fx-effect: dropshadow(gaussian,rgba(0,0,0,0.5),4,0,0,3);
+}

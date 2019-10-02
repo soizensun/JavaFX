@@ -1,0 +1,5 @@
+linear >> Introductory Linear Algebra ; 01417322 ; 3 ; Mandatory subject ; none ; 2 ; cal2
+java >> Software Construction ; 01418211 ; 3 ; Subject of com science ; none ; 3 ; compo
+dataStruct >> Data Structures ; 01418231 ; 3 ; Subject of com science ; none ; 2 ; compo
+stat >> Principle od Statistics ; 01422111 ; 3 ; Mandatory subject ; none ; 2 ; none
+eng3 >> Foundation English3 ; 01355113 ; 3 ; language and Communication ; none ; 2 ; eng2

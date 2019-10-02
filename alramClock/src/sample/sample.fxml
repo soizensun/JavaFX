@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #5d6d7e;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Button id="addButton" fx:id="addTimeButton" layoutX="593.0" layoutY="159.0" mnemonicParsing="false" onAction="#handleAddTimeButtonOnClick" prefHeight="37.0" prefWidth="190.0" stylesheets="@test.css" text="ADD" textFill="#595959">
+         <font>
+            <Font size="20.0" />
+         </font></Button>
+      <ListView id="listView" fx:id="timeListView" layoutX="593.0" layoutY="216.0" prefHeight="281.0" prefWidth="190.0" stylesheets="@test.css" />
+      <ComboBox id="minuteCombobox" fx:id="minuteComboBox" layoutX="697.0" layoutY="69.0" prefHeight="74.0" prefWidth="86.0" stylesheets="@test.css" />
+      <ComboBox id="hourCombobox" fx:id="hourComboBox" layoutX="593.0" layoutY="69.0" prefHeight="74.0" prefWidth="86.0" stylesheets="@test.css" />
+      <Button id="deleteButton" fx:id="test" layoutX="593.0" layoutY="540.0" mnemonicParsing="false" onAction="#handleDeleteButtonOnClick" prefHeight="38.0" prefWidth="190.0" stylesheets="@test.css" text="DELETE" textFill="WHITE">
+         <font>
+            <Font size="19.0" />
+         </font></Button>
+      <Label layoutX="680.0" layoutY="52.0" prefHeight="92.0" prefWidth="28.0" text=":" textFill="WHITE">
+         <font>
+            <Font size="73.0" />
+         </font>
+      </Label>
+      <Label fx:id="exceptionLabel" alignment="CENTER" layoutX="593.0" layoutY="510.0" prefHeight="24.0" prefWidth="190.0" style="-fx-background-color: red;" textFill="WHITE" />
+      <Label fx:id="hourLabel" layoutX="117.0" layoutY="246.0" prefHeight="99.0" prefWidth="72.0" text="03" textFill="#ffadadf4">
+         <font>
+            <Font name="Consolas Italic" size="96.0" />
+         </font>
+      </Label>
+      <Label fx:id="minuteLabel" layoutX="253.0" layoutY="246.0" text="23" textFill="#ffadadf4">
+         <font>
+            <Font name="Consolas Italic" size="96.0" />
+         </font>
+      </Label>
+      <Label fx:id="secondLabel" layoutX="383.0" layoutY="246.0" text="23" textFill="#ffadadf4">
+         <font>
+            <Font name="Consolas Italic" size="96.0" />
+         </font>
+      </Label>
+      <Label layoutX="228.0" layoutY="245.0" prefHeight="92.0" prefWidth="28.0" text=":" textFill="WHITE">
+         <font>
+            <Font size="73.0" />
+         </font>
+      </Label>
+      <Label layoutX="363.0" layoutY="242.0" prefHeight="92.0" prefWidth="28.0" text=":" textFill="WHITE">
+         <font>
+            <Font size="73.0" />
+         </font>
+      </Label>
+      <AnchorPane fx:id="popup" layoutX="-6.0" layoutY="-5.0" prefHeight="607.0" prefWidth="579.0" style="-fx-background-color: #FEDBF3;">
+         <children>
+            <Button fx:id="cancleButton" layoutX="450.0" layoutY="544.0" mnemonicParsing="false" onAction="#handleCancleButtonOnClick" prefHeight="38.0" prefWidth="114.0" style="-fx-background-color: #2c3e50;" text="CLOSE" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font></Button>
+            <TextField fx:id="submitTextField" layoutX="171.0" layoutY="544.0" prefHeight="39.0" prefWidth="149.0" />
+            <Button fx:id="submitButton" layoutX="330.0" layoutY="544.0" mnemonicParsing="false" onAction="#handleSubmitButtonOnClick" prefHeight="39.0" prefWidth="79.0" style="-fx-background-color: #f1948a;" text="submit" textFill="#515151">
+               <font>
+                  <Font size="18.0" />
+               </font></Button>
+            <Label fx:id="statusLabel" layoutX="171.0" layoutY="512.0" prefHeight="26.0" prefWidth="238.0">
+               <font>
+                  <Font size="17.0" />
+               </font></Label>
+            <ImageView fx:id="imageSolution" fitHeight="95.0" fitWidth="500.0" layoutX="40.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" />
+         </children>
+      </AnchorPane>
+      <Label fx:id="hourLabel1" layoutX="601.0" layoutY="7.0" prefHeight="54.0" prefWidth="51.0" text="03" textFill="#ffadadf4">
+         <font>
+            <Font name="Consolas Italic" size="36.0" />
+         </font>
+      </Label>
+      <Label fx:id="minuteLabel1" layoutX="670.0" layoutY="12.0" text="23" textFill="#ffadadf4">
+         <font>
+            <Font name="Consolas Italic" size="36.0" />
+         </font>
+      </Label>
+      <Label fx:id="secondLabel1" layoutX="737.0" layoutY="7.0" prefHeight="54.0" prefWidth="51.0" text="23" textFill="#ffadadf4">
+         <font>
+            <Font name="Consolas Italic" size="36.0" />
+         </font>
+      </Label>
+      <Label fx:id="dot" layoutX="652.0" layoutY="-14.0" prefHeight="92.0" prefWidth="28.0" text=":" textFill="WHITE">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label fx:id="dot" layoutX="721.0" layoutY="5.0" prefHeight="44.0" prefWidth="28.0" text=":" textFill="WHITE">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

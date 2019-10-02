@@ -1,0 +1,6 @@
+introcom >> Introduction to computer science ; 01418114 ; 2 ; Subject of com science ; none ; 1 ; none
+cal1 >> Calculus1 ; 01417111 ; 3 ; Mandatory subject ; none ; 1 ; none
+funPo >> Fundamental Programming Concepts ; 01418112 ; 3 ; Subject of com science ; introcom ; 2 ; none
+knowLand >> Knowledge of the land ; 01999111 ; 2 ; Knowladge of the land ; none ; 1 ; none
+eng1 >> Foundation English1 ; 01355111 ; 3 ; language and Communication ; none ; 1 ; none
+digital >> Digital Computer Logic ; 01418131 ; 3 ; Subject of com science ; none ; 1 ; none

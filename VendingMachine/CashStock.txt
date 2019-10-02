@@ -1,0 +1,8 @@
+OneThousandBaht 10
+FiveHundredBaht 1
+OneHundredBaht 4 
+FiftyBaht 2
+TwentyBaht 5
+TenBaht 5
+FiveBaht 4
+OneBaht 4
